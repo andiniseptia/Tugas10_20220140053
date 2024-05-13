@@ -1,0 +1,13 @@
+.back, a {
+    margin-top: 5px;
+    background-color: #2880b9;
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+    display: inline-block; /* Add this line to ensure the button displays inline */
+    text-align: center; /* Add this line to center the text horizontally within the button */
+    line-height: 40px; /* Add this line to center the text vertically within the button */
+}
